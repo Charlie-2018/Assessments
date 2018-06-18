@@ -23,21 +23,21 @@ console.log()
 // Log the correct PSI for the tires
 console.log()
 
-// 4. Have the function AlphabetSoup(str) take the "str" parameter being passed and return a string with the letters in alphabetical order (ie. hello becomes ehllo). Assume no numbers or punctuation symbols will not be included in the parameter. 
+// 4. Have the function AlphabetSoup(str) take the "str" parameter being passed and return a string with the letters in alphabetical order (ie. hello becomes ehllo). Assume no numbers or punctuation symbols will not be included in the parameter.
 
 // Input:"hooplah"
 // Output:"ahhloop"
 
 function AlphabetSoup(str) {
 
-    // your code goes here  
-	
-	return str; 
+    // your code goes here
+
+	return str;
 }
 
-// keep this function call here 
+// keep this function call here
 
-AlphabetSoup(hooplah);   
+AlphabetSoup(hooplah);
 
 // 5. Given the arrays below, use a for loop to print one value from each array concatenated together. How would your code need to change to accomodate arrays of different lengths?
 
